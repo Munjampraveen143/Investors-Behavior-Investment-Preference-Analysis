@@ -87,7 +87,6 @@ investors-behaviour-analysis/
 │── dataset/
 │── dashboard/
 │── reports/
-│── sql_queries/
 │── README.md
 
 
